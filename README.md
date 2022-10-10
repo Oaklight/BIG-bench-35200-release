@@ -1,4 +1,4 @@
-# BIG-Bench 35200
+# BIG-bench 35200
 
 Due: Oct 19th, 12pm CST
 
